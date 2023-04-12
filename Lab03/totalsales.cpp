@@ -1,6 +1,5 @@
 // LAB 3.5 Student Generated Code Assignments
 // Option 3: Write a program that will input total sales (sales plus tax) that a business generates for a particular month. The program will also input the state and local sales tax percentage. It will output the total sales plus the state tax and local tax to be paid. The output should be in fixed notation with 2 decimal places.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <iomanip>
