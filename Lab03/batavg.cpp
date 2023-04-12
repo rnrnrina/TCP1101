@@ -1,7 +1,6 @@
 // LAB 3.4 Working with Type Casting
 // This program will determine the batting average of a player.
 // The number of hits and at bats are set internally in the program.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <iomanip>
