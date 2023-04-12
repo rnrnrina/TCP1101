@@ -1,6 +1,5 @@
 // findErrors.cpp
 // Purpose: Find and fix errors. Program has one syntax error and one logic error.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 // using namespace std     // SYNTAX ERROR
