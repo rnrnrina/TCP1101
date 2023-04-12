@@ -2,7 +2,6 @@
 // This program will read in the quantity of a particular item and its price.
 // It will then print out the total price.
 // The input will come from the keyboard and the output will go to the screen.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <iomanip>
