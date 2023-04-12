@@ -1,7 +1,6 @@
 // LAB 2.1 Working with the cout Statement
 // name.cpp
 // Purpose: This program will write the name, address and telephone number of the programmer.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 using namespace std;
