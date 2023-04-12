@@ -1,7 +1,6 @@
 // LAB 3.3 Arithmetic Operations and Math Functions
 // This program will input the value of two sides of a right triangle and then
 // determine the size of the hypotenuse.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <cmath> // needed for math functions like sqrt()
