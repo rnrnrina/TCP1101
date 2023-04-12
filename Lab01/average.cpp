@@ -1,6 +1,5 @@
 // average.cpp
 // Purpose: Find the average of two numbers. It contains two errors that must be fixed.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 using namespace std;
