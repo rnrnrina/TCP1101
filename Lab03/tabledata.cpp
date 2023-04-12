@@ -1,7 +1,6 @@
 // LAB 3.2 Formatting Output
 // This program will bring in two prices and two quantities of items
 // from the keyboard and print those numbers in a formatted chart.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <iomanip> // Fill in the code to bring in the library for formatted output
