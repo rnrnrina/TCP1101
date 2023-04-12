@@ -1,6 +1,5 @@
 // LAB 3.5 Student Generated Code Assignments
 // Option 2: Write a program that will input the amount of chairs sold for each style. It will print the total dollar sales of each style as well as the total sales of all chairs in fixed point notation with two decimal places.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <string>
