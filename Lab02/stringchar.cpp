@@ -1,6 +1,5 @@
 // LAB 2.4 Working with Characters and Strings
 // This program demonstrates the use of characters and strings
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <string>
