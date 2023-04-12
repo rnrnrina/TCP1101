@@ -1,6 +1,5 @@
 // LAB 2.3 Rectangle Area and Perimeter
 // This program will output the perimeter and area of the rectangle with a given length and width.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 using namespace std;
