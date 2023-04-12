@@ -1,6 +1,5 @@
 // LAB 2.2 Working with Constants, Variables and Arithmetic Operators
 // This program will output the circumference and area of the circle with a given radius.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 using namespace std;
