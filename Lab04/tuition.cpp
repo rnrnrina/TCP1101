@@ -13,25 +13,25 @@ using namespace std;
 int main() {
     // system("clear");
 
-    char status, needRoom;
+    char tuitionCat, needRoom;
     double tuitionFee, roomFee, totalFee;
 
     cout << "Please input \"I\" if you are in-state or \"O\" if you are out-of-state:" << endl;
-    cin >> status;
+    cin >> tuitionCat;
 
     cout << "Please input \"Y\" if you require room and board and \"N\" if you do not:" << endl;
     cin >> needRoom;
 
-    switch (status) {
-        case 'I':
+    switch (tuitionCat) {
+        case 'I': case 'i':
             tuitionFee = 3000;
 
             switch (needRoom) {
-                case 'Y':
+                case 'Y': case 'y':
                     roomFee = 2500;
                 break;
 
-                case 'N':
+                case 'N': case 'n':
                     roomFee = 0;
                 break;
 
@@ -41,15 +41,15 @@ int main() {
             }
         break;
 
-        case 'O':
+        case 'O': case 'o':
             tuitionFee = 4500;
 
             switch (needRoom) {
-                case 'Y':
+                case 'Y': case 'y':
                     roomFee = 3500;
                 break;
 
-                case 'N':
+                case 'N': case 'n':
                     roomFee = 0;
                 break;
 
