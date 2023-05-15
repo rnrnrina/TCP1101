@@ -3,7 +3,6 @@
 // whether the last word to the following proverb should be party or country:
 // "Now is the time for all good men to come to the aid of their ___"
 // Inputting a 1 will use the word party. Any other number will use the word country.
-// NISRINA FAKHRIATI 1201303193
 
 // ---6.2.3 Change the previous program so the user may input the word to end the phrase. The string holding the user’s input word will be passed to the proverb function instead of passing a number to it. Notice that this change requires you to change the proverb function heading and the prototype as well as the call to the function.
 
@@ -50,12 +49,3 @@ void writeProverb(string word)
     // Fill in the body of the function to accomplish what is described above
     cout << "Now is the time for all good men to come to the aid of their " << word << endl;
 }
-
-/*
-NOTES
-To compile:
-g++ newproverb-3.cpp -o newproverb-3
-
-To run:
-./newproverb-3
-*/
