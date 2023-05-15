@@ -2,7 +2,6 @@
 // This program prints the proverb
 // "Now is the time for all good men to come to the aid of their party"
 // in a function (procedure) called writeProverb that is called by the main function
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <string>
@@ -34,12 +33,3 @@ void writeProverb()
 {
     cout << "Now is the time for all good men to come to the aid of their party." << endl;
 }
-
-/*
-NOTES
-To compile:
-g++ proverb.cpp -o proverb
-
-To run:
-./proverb
-*/
