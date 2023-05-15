@@ -2,7 +2,6 @@
 // This program takes two numbers (payRate & hours)
 // and multiplies them to get grosspay.
 // It then calculates net pay by subtracting 15%
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <iomanip>
@@ -89,13 +88,4 @@ void computePaycheck(float rate, int time, float &gross, float &net)
 /* 
 ---6.2.3 Are the parameters gross and net, in the modified calPaycheck function you created in Exercise 1 above, pass by value or pass by reference?
 * pass by reference
-*/
-
-/*
-NOTES
-To compile:
-g++ paycheck.cpp -o paycheck
-
-To run:
-./paycheck
 */
