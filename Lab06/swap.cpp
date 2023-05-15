@@ -28,12 +28,3 @@ int main()
 
     return 0;
 }
-
-/*
-NOTES
-To compile:
-g++ swap.cpp -o swap
-
-To run:
-./swap
-*/
