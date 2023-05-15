@@ -3,7 +3,6 @@
 // whether the last word to the following proverb should be party or country:
 // "Now is the time for all good men to come to the aid of their ___"
 // Inputting a 1 will use the word party. Any other number will use the word country.
-// NISRINA FAKHRIATI 1201303193
 
 // ---6.2.2 Change the program so that an input of 1 from the user will print “party” at the end, a 2 will print “country” and any other number will be invalid so that the user will need to en- ter a new choice.
 
