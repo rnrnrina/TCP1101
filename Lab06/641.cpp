@@ -40,12 +40,3 @@ void swapNum(int &num1, int &num2)
 
     return;
 }
-
-/*
-NOTES
-To compile:
-g++ 641.cpp -o 641
-
-To run:
-./641
-*/
