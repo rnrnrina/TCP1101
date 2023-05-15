@@ -76,12 +76,3 @@ void writeProverb(int number)
         break;
     }
 }
-
-/*
-NOTES
-To compile:
-g++ newproverb-2.cpp -o newproverb-2
-
-To run:
-./newproverb-2
-*/
