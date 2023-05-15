@@ -3,7 +3,6 @@
 // whether the last word to the following proverb should be party or country:
 // "Now is the time for all good men to come to the aid of their ___"
 // Inputting a 1 will use the word party. Any other number will use the word country.
-// NISRINA FAKHRIATI 1201303193
 
 #include <iostream>
 #include <string>
@@ -62,13 +61,4 @@ void writeProverb(int number)
 ---6.2.1
 ? What happens if you inadvertently enter a float such as -3.97?
 * Output: Now is the time for all good men to come to the aid of their country.
-*/
-
-/*
-NOTES
-To compile:
-g++ newproverb.cpp -o newproverb
-
-To run:
-./newproverb
 */
